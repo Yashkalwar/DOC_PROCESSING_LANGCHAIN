@@ -1,0 +1,11 @@
+langchain
+pypdf
+pymupdf
+pdfplumber
+pytesseract
+pillow
+langchain_community 
+faiss-cpu 
+sentence-transformers
+python-dotenv
+openai
